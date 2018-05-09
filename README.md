@@ -1,5 +1,5 @@
 # Smile-Detection
-Deep Neural Networks and Convolutional Neural Networks for distinguishing between smiling and non smiling faces
+Deep Neural Networks and Convolutional Neural Networks for distinguishing between smiling and non smiling faces. Dataset was taken from https://github.com/hromi/SMILEsmileD
 
 Dependencies- Python v3.6.3, NumPy v1.14.0, TensorFlow v1.4.0, scikit-learn v0.19.1, matplotlib v2.1.0, OpenCV v3.3.1
 
